@@ -6,3 +6,7 @@ The project was to use Django with Python and another database program like Post
 
 ## The link to view the project
 [Click_me](https://pizzamamadjangopython.herokuapp.com/)
+
+## API rest
+There is also an API rest to the following link:
+[Click_me](https://pizzamamadjangopython.herokuapp.com/api/GetPizzas)
